@@ -1,0 +1,208 @@
+﻿  AACFileMediaSource.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/AACFileMediaSource.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/AACFileMediaSource.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\AACFileMediaSource.cpp(87,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\AACFileMediaSource.cpp(91,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\AACFileMediaSource.cpp(103,35): warning C4018: “>”: 有符号/无符号不匹配
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\AACFileMediaSource.cpp(107,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  AACFileSink.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/AACFileSink.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/AACFileSink.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/AACFileSink.cpp”)
+  
+  Buffer.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Buffer.h(82,16): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/Buffer.cpp”)
+  
+  H264FileMediaSource.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/H264FileMediaSource.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/H264FileMediaSource.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\H264FileMediaSource.cpp(120,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\H264FileMediaSource.cpp(134,36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  H264FileSink.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/H264FileSink.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/H264FileSink.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/H264FileSink.cpp”)
+  
+  InetAddress.cpp
+  MediaSession.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/MediaSession.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/MediaSession.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/MediaSession.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\MediaSession.cpp(208,10): warning C4101: “ret”: 未引用的局部变量
+  MediaSessionManager.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/MediaSessionManager.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+  MediaSource.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/MediaSource.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/MediaSource.cpp”)
+  
+  Rtp.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/Rtp.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+  RtspConnection.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/RtspConnection.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Buffer.h(82,16): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/RtspConnection.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/RtspConnection.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/RtspConnection.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\RtspConnection.cpp(362,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\RtspConnection.cpp(390,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\RtspConnection.cpp(483,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\RtspConnection.cpp(501,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\RtspConnection.cpp(528,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\RtspConnection.cpp(538,5): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“void *”
+  RtspServer.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/RtspServer.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Buffer.h(82,16): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/RtspServer.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/RtspServer.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/RtspServer.cpp”)
+  
+  Sink.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/Live/Sink.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/Sink.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/Sink.cpp”)
+  
+  TcpConnection.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\TcpConnection.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Buffer.h(82,16): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/TcpConnection.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/TcpConnection.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Live/TcpConnection.cpp”)
+  
+  main.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  (编译源文件“../trunk/main.cpp”)
+  D:\Audio-Video\BXC_RtspServer5\trunk\Live\Rtp.h(35,13):
+  默认构造函数或 copy/move 赋值运算符将忽略此成员
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/main.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/main.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\main.cpp(28,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Event.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/Event.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/Event.cpp”)
+  
+  EventScheduler.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/EventScheduler.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/EventScheduler.cpp”)
+  
+  Poller.cpp
+  SelectPoller.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/SelectPoller.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/SelectPoller.cpp”)
+  
+  SocketsOps.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/SocketsOps.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/SocketsOps.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Scheduler\SocketsOps.cpp(19,16): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Scheduler\SocketsOps.cpp(37,16): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\Audio-Video\BXC_RtspServer5\trunk\Scheduler\SocketsOps.cpp(95,16): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  Thread.cpp
+  ThreadPool.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/ThreadPool.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/ThreadPool.cpp”)
+  
+  Timer.cpp
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/Timer.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Base\Log.h(34,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“../trunk/Scheduler/Timer.cpp”)
+  
+D:\Audio-Video\BXC_RtspServer5\trunk\Scheduler\Timer.cpp(190,20): warning C4244: “初始化”: 从“Timer::Timestamp”转换到“int”，可能丢失数据
+  UsageEnvironment.cpp
+  正在生成代码...
+  BXC_RtspServer.vcxproj -> D:\Audio-Video\BXC_RtspServer5\windows\x64\Debug\BXC_RtspServer.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
